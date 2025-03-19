@@ -89,7 +89,7 @@ This will generate the following outputs:
   - Visualization of phoneme duration distribution
 
 ## Details
- please refer to the report (https://github.com/liduanken/Cambridge_Assessment_Dictonary_Test/blob/main/report.md) section in this directory
+ please refer to the [report](https://github.com/liduanken/Cambridge_Assessment_Dictonary_Test/blob/main/Report.md) section in this directory
 
 ## Notes
 - Dataset may contain files with inconsistent formats; error handling mechanisms are in place
