@@ -37,7 +37,7 @@ output/
 logs/
 results/
 
-# IDE相关文件
+# IDE related
 .idea/
 .vscode/
 *.swp
